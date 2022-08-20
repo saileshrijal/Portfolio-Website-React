@@ -19,7 +19,7 @@ const Work = () => {
           <div
             style={{
               backgroundImage:
-                'url("https://play-lh.googleusercontent.com/dzGwWT0MKTyZnncxT2A05yrGryY9IQZTOh2QxEG00l6uvIp4yqqh0nYiFyAoloNyi0pw=w720-h310-rw")',
+                'url("https://play-lh.googleusercontent.com/8aqAfNAhGesimpsrQAyPl1l6kwAUbsrBnVlmRL00n7rRj5V7wo_YhgsV1KMu8t05Bw=w720-h310-rw")',
               backgroundRepeat: "no-repeat",
               backgroundPosition: "center",
               backgroundSize: "cover",
@@ -79,7 +79,7 @@ const Work = () => {
           <div
             style={{
               backgroundImage:
-                'url("https://play-lh.googleusercontent.com/ruEZL_MLiEnAANUhhsi13h0McRuHV3GA12evI7omfAJJvLFL5ff-7yon1PxqRaGXB8wW=w720-h310-rw")',
+                'url("https://play-lh.googleusercontent.com/8aqAfNAhGesimpsrQAyPl1l6kwAUbsrBnVlmRL00n7rRj5V7wo_YhgsV1KMu8t05Bw=w720-h310-rw")',
               backgroundRepeat: "no-repeat",
               backgroundPosition: "center",
               backgroundSize: "cover",
@@ -110,7 +110,7 @@ const Work = () => {
           <div
             style={{
               backgroundImage:
-                'url("https://play-lh.googleusercontent.com/aBfcQfWNs8LLWcxJ-k1MJ-ybGDtBtlW6S5byeSoCiVTJRZWhvRtECKzXgNSbOE6aRA=w720-h310-rw")',
+                'url("https://play-lh.googleusercontent.com/8aqAfNAhGesimpsrQAyPl1l6kwAUbsrBnVlmRL00n7rRj5V7wo_YhgsV1KMu8t05Bw=w720-h310-rw")',
               backgroundRepeat: "no-repeat",
               backgroundPosition: "center",
               backgroundSize: "cover",
